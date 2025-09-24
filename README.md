@@ -30,7 +30,7 @@ Install [using HACS][hacs] or [follow this guide][landroid-cloud].
 
 Just click on this button to add this repository to HACS
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Barma-lej&repository=landroid-card&category=plugin)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=boycyclej&repository=landroid-card&category=plugin)
 
 **Or** you can manually add this repository to your HACS installation. [Here is the manual process][hacs-add-repo].
 
