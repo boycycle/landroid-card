@@ -1046,9 +1046,9 @@ class LandroidCard extends LitElement {
     return html`
       <ha-card>
         <div class="tips">
-          ${this.renderTipButton(consts.INFOCARD)}
+          <!-- ${this.renderTipButton(consts.INFOCARD)}-->
           ${this.renderTipButton(consts.STATISTICSCARD)}
-          ${this.renderTipButton(consts.BATTERYCARD)}
+          <!-- ${this.renderTipButton(consts.BATTERYCARD)} -->
         </div>
         ${Object.values(consts.CARD_MAP).map((card) =>
           this.renderEntitiesCard(
