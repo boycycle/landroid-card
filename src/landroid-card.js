@@ -1078,5 +1078,5 @@ window.customCards.push({
   name: localize('common.name'),
   preview: true,
   description: localize('common.description'),
-  documentationURL: 'https://github.com/Barma-lej/landroid-card',
+  documentationURL: 'https://github.com/boycycle/landroid-card',
 });
